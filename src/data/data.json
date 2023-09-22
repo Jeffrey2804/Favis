@@ -1,0 +1,145 @@
+{
+  "Header": {
+    "title": "The Favis Car Rental",
+    "paragraph": "Vehicle Rental Management Services"
+  },
+  "About": {
+    "paragraph": "Since our establishment as a used car dealership in 2015, we have evolved into a full mobility company, adapting to the changing needs of our customers. In response to the COVID-19 pandemic in 2021, we expanded our services to include car rentals. Today, we are further expanding into vehicle rental management, offering individuals the opportunity to have their vehicles managed and rented out on their behalf.",
+
+    "Why": [
+      "Take the hassle out of car rental with our full management services.",
+      "Maximize your rental potential with our expert management team.",
+      "Don't let time hold you back - our management services activities running smoothly"
+    ],
+    "Why2": [
+      "Let us take the wheel - full car rental management services for busy car owners",
+      "Relax, we've got you covered - comprehensive management services for hassle-free car rental.",
+      ""
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Advertising and Promotion",
+      "text":"The Favis shall advertise the Vehicle on the Turo platform to maximize rental potential.",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/advertisement.jpg"
+    },
+    {
+      "title": "Vehicle Maintenance and Cleaning",
+      "text":"  The Favis shall ensure that the Vehicle is clean and well-maintained before each rental.",
+      "largeImage": "img/02-large.jpg",
+      "smallImage": "img/maintain.jpg"
+
+    
+    },
+    {
+      "title": "Insurance",
+      "text":"The Vehicle Owner shall maintain the required insurance on their Vehicle at all times, while Turo provides insurance coverage for the Vehicle during the rental period.",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/insurance.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-car",
+      "name": "Car Rental",
+      "link":"https://turo.com/us/en/drivers/5623072",
+      "text": "We're thrilled that you're considering renting a car from us. While our direct car rental service is temporarily unavailable, don't worry—we'll be back soon to serve you with a smile!In the meantime, we've got a fantastic solution for you. You can book your dream vehicle directly through our Turo profile. It's quick, easy, and offers reasonable prices that won't break the bank!"
+    },
+    {
+      "icon": "fa fa-archive",
+      "name": "Turo Co-host",
+      "link":"#",
+      "text": "Our team of experts is here to maximize your rental potential, providing comprehensive management services that cover every aspect. Sit back, relax, and let us handle it all, giving you a hassle-free and worry-free experience. Don't let time constraints hold you back—our efficient management services ensure smooth and seamless rental activities."
+    }
+   
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "https://images.turo.com/media/vehicle/images/CfztZX7ySdegaqmn6pS-cA.1440x700.jpg",
+      "name": "Toyota Highlander 2019",
+      "job": "$76 / day",
+      "link": "https://turo.com/us/en/suv-rental/united-states/houston-tx/toyota/highlander/1025873?endDate=07%2F19%2F2023&endTime=10%3A00&startDate=07%2F16%2F2023&startTime=10%3A00"
+    },
+    {
+      "img": "https://images.turo.com/media/vehicle/images/LPk0KHqnTOaII707sMRAwg.1440x700.jpg",
+      "name": "Toyota Highlander 2019",
+      "job": "$71 / day",
+      "link": "https://turo.com/us/en/suv-rental/united-states/houston-tx/toyota/highlander/1066112?endDate=07%2F19%2F2023&endTime=10%3A00&startDate=07%2F16%2F2023&startTime=10%3A00"
+    },
+    {
+      "img": "https://images.turo.com/media/vehicle/images/h8_9XkThRFWB0MCYVuZXQQ.1440x700.jpg",
+      "name": "Toyota RAV4 2018",
+      "job": "$49 / day",
+      "link": "https://turo.com/us/en/suv-rental/united-states/houston-tx/toyota/rav4/1075894?endDate=07%2F19%2F2023&endTime=10%3A00&startDate=07%2F16%2F2023&startTime=10%3A00"
+    },
+    {
+      "img": "https://images.turo.com/media/vehicle/images/p81MFdEgRiyWKVpZXi77Ew.1440x700.jpg",
+      "name": "Toyota RAV4 2018",
+      "job": "$49 / day",
+      "link": "https://turo.com/us/en/suv-rental/united-states/houston-tx/toyota/rav4/1079191?endDate=07%2F19%2F2023&endTime=10%3A00&startDate=07%2F16%2F2023&startTime=10%3A00"
+    }
+  ],
+  "Contact": {
+    "address": " 2315 Greens Road, Houston TX, 77032 ",
+    "phone": "281-825- 1514",
+    "email": "faviscarrental@gmail.com",
+    "facebook": "#",
+    "twitter": "#",
+    "youtube": "#"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
